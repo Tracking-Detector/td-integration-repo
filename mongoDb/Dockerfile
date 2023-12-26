@@ -1,4 +1,4 @@
-ARG IMAGE
-FROM IMAGE:latest
+ARG BUILD_FROM
+FROM BUILD_FROM:latest
 
 CMD ["mongod"]
