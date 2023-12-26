@@ -1,0 +1,9 @@
+name: MongoDB Server
+description: MongoDB Server Integration that starts a MongoDb Server that can be used to store any data in any collection
+url: https://github.com/Tracking-Detector/td-integration-repo/tree/main/mongodb
+webui: http://[HOST]:[PORT:27017]
+ports:
+  27017: 27017
+ports_description:
+  27017: Default mongodb port
+image: mongodb
