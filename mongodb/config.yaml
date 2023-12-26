@@ -1,4 +1,5 @@
 name: MongoDB Server
+folder_name: mongodb
 description: MongoDB Server Integration that starts a MongoDb Server that can be used to store any data in any collection
 url: https://github.com/Tracking-Detector/td-integration-repo/tree/main/mongodb
 webui: http://[HOST]:[PORT:27017]
