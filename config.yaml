@@ -6,4 +6,4 @@ ports:
   27017: 27017
 ports_description:
   27017: Default mongodb port
-image: mongodb
+image: mongo
