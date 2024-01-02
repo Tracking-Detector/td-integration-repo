@@ -1,4 +1,4 @@
 ARG BUILD_FROM
-FROM BUILD_FROM:latest
+FROM $BUILD_FROM:latest
 
 CMD ["mongod"]
